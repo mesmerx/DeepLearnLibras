@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>oi20052.png</filename>
+	<path>/home/mesmer/tensorflow/images/oi20052.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>55</ymin>
+			<xmax>99</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>
